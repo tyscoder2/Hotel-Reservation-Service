@@ -1,0 +1,34 @@
+Forms/
+│
+├── Authentication/
+│   ├── frmSplash.vb
+│   ├── frmLogin.vb
+│   ├── frmRegister.vb
+│   ├── frmSuccess.vb
+│   └── frmOops.vb
+│
+├── Main/
+│   ├── frmMain.vb
+│   └── frmAbout.vb
+│
+├── Rooms/
+│   ├── frmRooms.vb
+│   ├── frmRoomDetails.vb
+│   └── frmRoomManagement.vb
+│
+├── Reservations/
+│   ├── frmReservation.vb
+│   └── frmReservations.vb
+│
+├── Guests/
+│   └── frmGuestManagement.vb
+│
+├── Services/
+│   ├── frmServices.vb
+│   └── frmServiceManagement.vb
+│
+├── Payments/
+│   └── frmPaymentManagement.vb
+│
+└── Reports/
+    └── frmReports.vb
