@@ -1,4 +1,0 @@
-Data/
-│
-├── DbConnection.vb
-└── DatabaseTransaction.vb
